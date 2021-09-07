@@ -1,0 +1,14 @@
+// SCSS
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+}
+canvas {
+  width: 98vmin;
+  height: 98vmin;
+}
